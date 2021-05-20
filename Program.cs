@@ -20,17 +20,17 @@ namespace VariablesDemo
                     Console.WriteLine($"So it is essential to learn the right {(Language)languageValue} vocabulary words.");
 
                 }
-                else
-                    Console.WriteLine("Please follow the instructions and try again");
+             //    else
+            //        Console.WriteLine("Please follow the instructions and try again");
 
             }
-            else
+            //else
 
-            {
+            //{
 
-                Console.WriteLine("Please follow the instructions and try again");
+            //    Console.WriteLine("Please follow the instructions and try again");
 
-            }
+            //}
 
         }
 
